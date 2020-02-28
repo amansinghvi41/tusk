@@ -3,8 +3,12 @@ All the recipes:
 1. Kheer
 2. Pasta
 3. Chicken fry
+4. Beans
+5. Pizza
 
 
 Thanks
+
+Done my changes
 
 Final copy
